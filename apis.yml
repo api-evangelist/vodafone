@@ -75,7 +75,7 @@ apis:
     properties:
       - type: Documentation
         url: https://developer.vodafone.com/api-catalogue/number-verification-camara-2/overview
-      - type: SignUp
+      - type: Signup
         url: https://developer.vodafone.com/signup
       - type: Sandbox
         url: https://api-sandbox.vf-dmp.engineering.vodafone.com
