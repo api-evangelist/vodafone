@@ -476,6 +476,8 @@ apis:
       can onboard and order CAMARA APIs across Vodafone's footprint with a
       single integration.
 common:
+  - type: DomainSecurity
+    url: security/vodafone-domain-security.yml
   - type: Website
     url: https://www.vodafone.com
   - type: DeveloperPortal
@@ -514,6 +516,8 @@ common:
     url: https://www.linkedin.com/company/vodafone
   - type: YouTube
     url: https://www.youtube.com/@Vodafone
+  - type: Blog
+    url: https://www.vodafone.com/news
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
