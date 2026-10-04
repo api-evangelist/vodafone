@@ -51,7 +51,6 @@ access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/vodafone.png
 tags:
   - Telecommunications
-  - Telco
   - Mobile Network Operator
   - 5G
   - 4G
