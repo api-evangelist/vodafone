@@ -213,6 +213,12 @@ apis:
     tags:
       - Boost
       - Quality of Service
+      - 5G
+      - CAMARA
+      - Open Gateway
+    tags_raw:
+      - Boost
+      - Quality of Service
       - QoS
       - 5G
       - CAMARA
@@ -232,6 +238,11 @@ apis:
     tags:
       - Boost
       - Quality of Service
+      - CAMARA
+      - Open Gateway
+    tags_raw:
+      - Boost
+      - Quality of Service
       - QoS
       - CAMARA
       - Open Gateway
@@ -247,6 +258,10 @@ apis:
   - aid: vodafone:qos-provisioning
     name: QoS Provisioning
     tags:
+      - Boost
+      - Quality of Service
+      - Open Gateway
+    tags_raw:
       - Boost
       - Quality of Service
       - QoS
